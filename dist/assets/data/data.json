@@ -1,0 +1,11 @@
+{
+    "example":{
+        "image" : "default.png",
+        "description": "A cat that looks like a snake or a snake that looks like a cat, scientists still argue. A friendly animal, but has a powerful poison, sharp claws. Loves warming in the sun, confined spaces and silence.",
+        "drop": {
+            "research-mode": "bottle of poison",
+            "experiment-mode" : "poison glands"
+        },
+        "experiment_info": "In battle, stands on its hind legs and hits with its front legs. At this moment, his weak point is visible - the belly. Ranged Attack: Spits poison, over long distances." 
+    }
+}
